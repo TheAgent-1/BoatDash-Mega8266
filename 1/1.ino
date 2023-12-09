@@ -4,6 +4,8 @@
 
 */
 
+// https://randomnerdtutorials.com/esp8266-nodemcu-client-server-wi-fi/#:~:text=You're%20going%20to%20set,ESP8266%20boards%20using%20Arduino%20IDE.
+
 // ==================================== Libraries
 #include <LiquidCrystal_I2C.h>  // LCD
 #include <HX711_ADC.h>          // LoadCell
